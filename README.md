@@ -1,6 +1,8 @@
 Daniel Alejandro Molina Yepes
 
 Lista comandos:
-    <p>bower install</p>
-    <p>polymer serve </p>
+<ul>
+    <li>bower install</li>
+    <li>polymer serve </li>
+</ul>
 
