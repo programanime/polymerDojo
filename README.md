@@ -1,6 +1,6 @@
 Daniel Alejandro Molina Yepes
 
 Lista comandos:
-    bower install
-    polymer serve 
+    <p>bower install</p>
+    <p>polymer serve </p>
 
